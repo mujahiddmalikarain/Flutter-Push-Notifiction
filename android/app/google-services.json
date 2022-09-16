@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92880184608",
+    "project_id": "lyotrade-fire",
+    "storage_bucket": "lyotrade-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92880184608:android:52aeb8f98a53dac8cc2345",
+        "android_client_info": {
+          "package_name": "com.example.localnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92880184608-l2t0lt6g23cao44gh2806f5qn88sqc61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcXUmPVzfJ7l60m-iIC935Z1TX7ojGTz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92880184608-l2t0lt6g23cao44gh2806f5qn88sqc61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
